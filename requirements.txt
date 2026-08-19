@@ -1,0 +1,6 @@
+pandas
+numpy
+faker
+python-dotenv
+pyyaml
+pytest
